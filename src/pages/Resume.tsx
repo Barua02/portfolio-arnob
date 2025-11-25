@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { Download, GraduationCap, Briefcase, Award } from "lucide-react";
+import { Eye, GraduationCap, Briefcase, Award } from "lucide-react";
 
 const Resume = () => {
   const education = [
@@ -37,13 +37,13 @@ const Resume = () => {
             Resume
           </h1>
           <div className="h-1 w-24 mx-auto bg-secondary rounded-full neon-glow-purple mb-6"></div>
-          <a href="/portfolio-arnob/Arnob-Barua-CV.pdf" download>
+          <a href="/portfolio-arnob/Arnob-Barua-CV.pdf" target="_blank" rel="noopener noreferrer">
             <Button
               size="lg"
               className="bg-transparent border-2 border-primary text-primary hover:bg-primary hover:text-primary-foreground font-display neon-glow-cyan"
             >
-              <Download className="w-5 h-5 mr-2" />
-              Download CV
+              <Eye className="w-5 h-5 mr-2" />
+              View CV
             </Button>
           </a>
         </div>
