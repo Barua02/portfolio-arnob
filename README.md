@@ -2,7 +2,26 @@
 
 A modern, responsive portfolio website showcasing my journey as a Machine Learning Engineer and Full-Stack Developer. Built with cutting-edge technologies and featuring a sleek neon cyberpunk aesthetic.
 
-![Portfolio Preview](https://via.placeholder.com/800x400/000000/00FFFF?text=Portfolio+Preview) <!-- Replace with actual screenshot -->
+![Portfolio Preview]
+
+<img width="1918" height="960" alt="image" src="https://github.com/user-attachments/assets/b0e3a215-ecbb-4416-a5ed-b1acfeee7b2a" />
+
+---
+
+<img width="1918" height="947" alt="image" src="https://github.com/user-attachments/assets/0d4f2be1-b99f-4de8-ac0c-4005c13aabcb" />
+
+---
+
+<img width="1916" height="962" alt="image" src="https://github.com/user-attachments/assets/b25b1851-0b8e-436e-a3c5-edad29d91419" />
+
+---
+
+<img width="1918" height="972" alt="image" src="https://github.com/user-attachments/assets/d0368f52-96e9-4cdc-a419-4c4e81339334" />
+
+---
+
+<img width="1918" height="968" alt="image" src="https://github.com/user-attachments/assets/b5c90a74-c18c-4454-b6e5-69ab117cc9d2" />
+
 
 ## 🌟 Features
 
